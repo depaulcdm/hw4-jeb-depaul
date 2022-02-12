@@ -6,3 +6,5 @@ hello-world/target
 tools/build
 tools/ivy
 tools/src
+.idea/*
+.DS_Store
